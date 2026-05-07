@@ -126,7 +126,7 @@ telegram.org
 
 ![](https://files.mdnice.com/user/4562/127586e1-5a27-4eea-a909-54fa68062040.png)
 
-#### 安卓版本下载
+# 3、安卓版本下载
 
 #### 1、官网下载
 
@@ -211,7 +211,7 @@ https://www.apkmirror.com/apk/telegram-fz-llc/telegram-beta/telegram-beta-12-7-0
 ![](https://files.mdnice.com/user/4562/2196f0ca-0a94-4be2-ba6b-53a95f6aa219.png)
 
 
-#### 苹果版下载
+# 4、苹果版下载
 
 需要一个外区AppleID即可在AppStore中搜索下载。
 
@@ -269,7 +269,7 @@ https://www.apkmirror.com/apk/telegram-fz-llc/telegram-beta/telegram-beta-12-7-0
 
 
 
-#### 桌面版
+#### 5、桌面版
 
 https://desktop.telegram.org/
 
@@ -279,7 +279,7 @@ Windows支持便携版本，开箱即用，无需安装。
 
 除了Windows，另外还支持Linux、Mac。
 
-#### 网页版
+#### 6、网页版
 
 https://web.telegram.org/
 
