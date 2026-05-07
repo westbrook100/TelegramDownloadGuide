@@ -81,6 +81,8 @@ telegram.org
 
 想要使用Telegram（纸飞机，又叫“电报”），必须需要一款VPN工具，很多平台为了避免和谐，经常被称为“魔法网络”、“魔法工具”。
 
+没有VPN工具，Telegram所有的相关网址、App都打不开、用不了，要想使用Telegram，VPN软件是必备的前提条件！
+
 强烈推荐！👉👉👉[点击注册，可免费使用24小时](https://qsqs.life/register?code=hzhSNrdy)
 
 实测刷Tiktok非常流畅：
