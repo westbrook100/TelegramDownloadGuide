@@ -81,9 +81,7 @@ telegram.org
 
 想要使用Telegram（纸飞机，又叫“电报”），必须需要一款VPN工具，很多平台为了避免和谐，经常被称为“魔法网络”、“魔法工具”。
 
-强烈推荐！👉👉👉
-
-[点击注册，可免费使用24小时](https://qsqs.life/register?code=hzhSNrdy)
+强烈推荐！👉👉👉[点击注册，可免费使用24小时](https://qsqs.life/register?code=hzhSNrdy)
 
 实测刷Tiktok非常流畅：
 
@@ -271,7 +269,7 @@ https://www.apkmirror.com/apk/telegram-fz-llc/telegram-beta/telegram-beta-12-7-0
 
 
 
-#### 5、桌面版
+# 5、桌面版
 
 https://desktop.telegram.org/
 
@@ -281,7 +279,7 @@ Windows支持便携版本，开箱即用，无需安装。
 
 除了Windows，另外还支持Linux、Mac。
 
-#### 6、网页版
+# 6、网页版
 
 https://web.telegram.org/
 
