@@ -126,7 +126,7 @@ telegram.org
 
 # 3、安卓版下载
 
-## 1、官网下载
+## 3.1、官网下载
 
 https://telegram.org/android
 
@@ -134,7 +134,7 @@ https://telegram.org/android
 
 ![](https://files.mdnice.com/user/4562/78bb3fa2-d633-4aff-a37a-17ddaf996e7b.png)
 
-## 2、GooglePlay中下载
+## 3.2、GooglePlay中下载
 
 在Google Play（谷歌的应用商店）中搜索下载，如图所示：
 
@@ -167,7 +167,7 @@ Google Play： Google Play本体，下载 App 的地方。
 
 重点提醒：如果没有这个「谷歌基础服务」，那只能手动安装谷歌三件套，另外华为机型（纯血鸿蒙）、部分荣耀机型、老版本的MIUI系统、千元左右的低配置机型都有可能没有预装GMS，是无法正常运行Google Play的。
 
-## 3、第三方网站中下载
+## 3.3、第三方网站中下载
 
 通过第三方APK下载网站也可以直接得到安装包，这种方式大家了解即可。
 
