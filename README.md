@@ -213,17 +213,19 @@ https://www.apkmirror.com/apk/telegram-fz-llc/telegram-beta/telegram-beta-12-7-0
 
 # 4、苹果版下载
 
-需要一个外区AppleID即可在AppStore中搜索下载。
+国内用户的苹果手机应用商店「AppStore」是无法直接搜索、下载Telegram的，你是国内的AppleID，肯定是无法下载国外的应用。
 
-登录美区的AppleID之后，Appstore明显有区别。
+必备条件是：需要一个外区AppleID，即可在外区的AppStore中搜索下载。
 
-明显特征主要有2个：
+登录外区的AppleID之后，Appstore明显有区别。
+
+主要特征有2个：
 
 1、国区AppStore对比美区AppStore，菜单栏从4个变成了5个：
 
 ![](https://files.mdnice.com/user/4562/d313db2d-cad6-4532-865d-4027fcce0422.png)
 
-2、国区的AppStore是无法搜索Tiktok、Telegram、Instangram、X、Facebook的。
+2、国区的AppStore是无法搜索Tiktok、Telegram、Instangram、X、Facebook的，你登录的AppleID如果能搜索到这些应用，说明就是国外的AppStore。
 
 2026年想要在注册一个外区的ApplD，确实有一定的难度。
 
