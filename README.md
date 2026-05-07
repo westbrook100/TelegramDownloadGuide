@@ -124,7 +124,7 @@ telegram.org
 
 ![](https://files.mdnice.com/user/4562/127586e1-5a27-4eea-a909-54fa68062040.png)
 
-# 3、安卓版本下载
+# 3、安卓版下载
 
 ## 1、官网下载
 
