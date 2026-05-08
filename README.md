@@ -233,7 +233,7 @@ https://www.apkmirror.com/apk/telegram-fz-llc/telegram-beta/telegram-beta-12-7-0
 
 ![](https://files.mdnice.com/user/4562/442c5a05-d1f7-4def-881d-9e05b4a120c2.jpg)
 
-我这里所使用的是共享的美区AppleID，就是在上面的VPN软件「青山」中找到的。
+我这里所使用的是共享的美区AppleID，就是在上面的VPN软件「青山」中找到的。这些VNP软件都是直接上架在外区的AppStore，这类软件在国外是完全合法的存在。
 
 先注册一下，[点击注册青山](https://qsqs.life/register?code=hzhSNrdy)
 
