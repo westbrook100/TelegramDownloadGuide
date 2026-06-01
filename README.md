@@ -83,7 +83,7 @@ telegram.org
 
 没有VPN工具，Telegram所有的相关网址、App都打不开、用不了，要想使用Telegram，VPN软件是必备的前提条件！
 
-强烈推荐！👉👉👉[点击注册，可免费使用24小时](https://qsqs.life/register?code=hzhSNrdy)
+强烈推荐！👉👉👉[点击注册，可免费使用24小时](https://qsqs.club/register?code=hzhSNrdy)
 
 实测刷Tiktok非常流畅：
 
