@@ -235,7 +235,7 @@ https://www.apkmirror.com/apk/telegram-fz-llc/telegram-beta/telegram-beta-12-7-0
 
 我这里所使用的是共享的美区AppleID，就是在上面的VPN软件「青山」中找到的。这些VNP软件都是直接上架在外区的AppStore，这类软件在国外是完全合法的存在。
 
-先注册一下，[点击注册青山](https://qsqs.life/register?code=hzhSNrdy)
+先注册一下，[点击注册青山](https://qsqs.club/register?code=hzhSNrdy)
 
 这个VPN相当便宜，仅仅14元/月/100G，大力推荐。
 
